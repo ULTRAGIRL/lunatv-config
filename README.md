@@ -493,20 +493,6 @@ console.log(`Request from: ${request.headers.get('cf-connecting-ip')}`)
 **若您不同意本免责声明中的任何条款，请立即停止使用并删除本仓库的全部内容。**
 
 
----
-
-
-
-## ⭐ Star History
-[![Star History](https://starchart.cc/hafrey1/LunaTV-config.svg?variant=light)](https://starchart.cc/hafrey1/LunaTV-config)
-
-
-
-
-
-
-
-
 
 
 
